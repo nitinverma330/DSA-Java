@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SlidingWindow",
+            "request": "launch",
+            "mainClass": "SlidingWindow",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day6",
+            "request": "launch",
+            "mainClass": "Day6",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day5",
+            "request": "launch",
+            "mainClass": "Day5",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day4",
+            "request": "launch",
+            "mainClass": "Day4",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day3",
+            "request": "launch",
+            "mainClass": "Day3",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Collectionn",
+            "request": "launch",
+            "mainClass": "Collectionn",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day2",
+            "request": "launch",
+            "mainClass": "Day2",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Day1",
+            "request": "launch",
+            "mainClass": "Day1",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Arrayy",
+            "request": "launch",
+            "mainClass": "Arrayy",
+            "projectName": "Programs_4aabbf4b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
