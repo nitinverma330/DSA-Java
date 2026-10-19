@@ -1,3 +1,4 @@
+package Arrayy.TwoPointer;
 
 class AvgArray{
     public void avg(int arr[]){
